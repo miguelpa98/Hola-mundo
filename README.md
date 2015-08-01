@@ -1,2 +1,2 @@
 # Hola-mundo
-cout>> ("HOLA");
+I love chocolate;
