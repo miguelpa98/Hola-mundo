@@ -25,4 +25,5 @@
 # Executables
 *.exe
 *.out
+std::cout << "Introducir 2 números"<< std::end1;
 *.app
